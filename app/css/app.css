@@ -35,6 +35,7 @@ h2{
 }
 h1{
     color: #ffffff;
+    text
 }
 p{
     color: #ffffff;
@@ -44,7 +45,7 @@ p{
     text-align: center;
 }
 .img{
-    padding-top: 50px;
+    padding-top: 10px;
 }
 .img img{
     width: 100px;
@@ -55,6 +56,7 @@ p{
     -o-border-radius: 50px;
 }
 .container{
+    margin-top:15px;
     width: 400px;
     height: auto;
     text-align: center;
