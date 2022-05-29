@@ -57,7 +57,7 @@ p{
 }
 .container{
     display:block;
-    /* padding-bottom:50px; */
+    padding-bottom:50px;
     margin-top:15px;
     width: 400px;
     height: auto;
