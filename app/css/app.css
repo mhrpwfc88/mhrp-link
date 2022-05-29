@@ -56,6 +56,8 @@ p{
     -o-border-radius: 50px;
 }
 .container{
+    display:block;
+    /* padding-bottom:50px; */
     margin-top:15px;
     width: 400px;
     height: auto;
