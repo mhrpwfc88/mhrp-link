@@ -1,0 +1,69 @@
+body{
+    background-image: linear-gradient(120deg, #84fab0 0%, #8fd3f4 100%);
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.card{
+    width: 300px;
+    height: 40px;
+    border: solid 3px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding-top: 15px;
+    border-radius: 30px;
+    display: block;
+    font-size: 25px;
+    text-decoration: none;
+    color: #ffffff;
+    background: transparent;
+    margin-bottom: 25px;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    -ms-border-radius: 30px;
+    -o-border-radius: 30px;
+}
+.card:hover{
+    background-image: linear-gradient(120deg, #f6d365 0%, #fda085 100%);
+}
+h2{
+    color: #ffffff;
+    
+}
+h1{
+    color: #ffffff;
+}
+p{
+    color: #ffffff;
+    padding-bottom: 30px;
+}
+.center{
+    text-align: center;
+}
+.img{
+    padding-top: 50px;
+}
+.img img{
+    width: 100px;
+    border-radius: 50px;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    -ms-border-radius: 50px;
+    -o-border-radius: 50px;
+}
+.container{
+    width: 400px;
+    height: auto;
+    text-align: center;
+    display: block;
+    background: #ffffff21;
+    border-radius: 30px;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    -ms-border-radius: 30px;
+    -o-border-radius: 30px;
+}
+.
